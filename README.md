@@ -12,7 +12,7 @@ Hi there! I'm Zakaria, an aspiring data and finance analyst with a passion for u
 - Proficient in Python, SQL, and data visualization tools (Matplotlib, Seaborn). 
 - Skilled in data cleaning, exploratory data analysis (EDA), and statistical modelling.
 - Proficient in building financial models including cash flow statements, balance sheets and profit statements.
-- Skilled in financial analysis and forecasting (excel)
+- Skilled in financial analysis and forecasting using Excel (GROSS/NET Revenue, EBITDA, COGS, % growth)
 
 **Projects** 
 

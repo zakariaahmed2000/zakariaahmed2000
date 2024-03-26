@@ -21,7 +21,7 @@ Hi there! I'm Zakaria, an aspiring data analyst with a passion for unravelling i
 3. **MySQL - Data Manipulation:** Import a .db file into MySQL Workbench and activate it as the schema. Using the SELECT and FROM statements in every query consistently and calling the correct column names and data table names. Using the outer join or inner join to connect two or more data columns from different tables together via a primary and foreign key. Using the GROUPBY and ORDERBY functions to group records together via a common value or sort the records from ASC (ascending) or DESC (decsending) order. Using these in the correct syntax to answer questions.
 
 * 🌍  I'm based in London </br>
-* ✉️  You can contact me at [zakariaahmed2000@gmail.com](mailto:zakariaahmed2000@gmail.com) </br>
+* ✉️  You can contact me at [my email address](mailto:zakariaahmed2000@gmail.com) </br>
 * 🧠  I'm learning Python, SQL, Power BI, R </br>
 * 🤝  I'm open to collaborating on Finance, Banking and Data projects </br>
 

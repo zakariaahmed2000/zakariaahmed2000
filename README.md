@@ -16,11 +16,13 @@ Hi there! I'm Zakaria, an aspiring data and finance analyst with a passion for u
 
 **Projects** 
 
-1. **ATM Simulation (Python):** Using the Google Colab platform and Python programming language to simulate a user experience on an ATM by defining functions for every user action, calling on these functions and linking them together for navigation purposes. Using a global balance to add and subtract from the balance when user withdraws and deposits (executing calculations) into the simulated account. Finally also coding for loops and using the IF, ELIF, ELSE statements to code for the outputs for each user input possibility and restricting the user input using integer ranges alongside error messages. 
-   
-2. **Data Analysis on Excel & Tableau:** Using Wealth of nationas.xlsx file, conditional formatting, filtering data, data cleansing, creating pivot tables alongside charts and creating macros for efficient executions. Importing this file into tableau, assigning desired data columns from the same or different data tables to the correct axis and converting it into a visualisation complimenting it with a filter sidebar. When different sheets of visualisations have been made, transfer these into the dashboard and customize it freely.
+1. **Excel - Exploratory Data Analysis:** Using Wealth of nationas.xlsx file, conditional formatting, filtering data, data cleansing, creating pivot tables alongside charts and creating macros for efficient executions. 
+
+2. **Tableau - Statistical Modelling:** Importing Wealth of nations.xlsx file into Tableau, assigning desired data columns from the same or different data tables to the correct axis and converting it into a visualisation models. Compliment models with a filter sidebar for user. When different sheets of visualisations have been made, transfer these into the dashboard and customize it freely. 
    
 3. **MySQL - Data Manipulation:** Import a .db file into MySQL Workbench and activate it as the schema. Using the SELECT and FROM statements in every query consistently and calling the correct column names and data table names. Using the outer join or inner join to connect two or more data columns from different tables together via a primary and foreign key. Using the GROUPBY and ORDERBY functions to group records together via a common value or sort the records from ASC (ascending) or DESC (decsending) order. Using these in the correct syntax to answer questions.
+
+4. **Python - ATM Simulation using Google Colab :** Using the Google Colab platform and Python programming language to simulate a user experience on an ATM by defining functions for every user action, calling on these functions and linking them together for navigation purposes. Using a global balance to add and subtract from the balance when user withdraws and deposits (executing calculations) into the simulated account. Finally also coding for loops and using the IF, ELIF, ELSE statements to code for the outputs for each user input possibility and restricting the user input using integer ranges alongside error messages. 
 
 * 🌍  I'm based in London </br>
 * ✉️  You can contact me at [my email address](mailto:zakariaahmed2000@gmail.com) </br>

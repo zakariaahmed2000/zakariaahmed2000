@@ -4,13 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst | Finance Analyst | Python Enthusiast 
 ---------------------------------------------------
 
-Hi there! I'm Zakaria, an aspiring data analyst with a passion for unravelling insights from complex datasets. My journey involves turning raw data into actionable knowledge, and I'm excited to share my projects and experiences. 
+Hi there! I'm Zakaria, an aspiring data and finance analyst with a passion for unravelling insights from complex datasets. My journey involves turning raw data into actionable knowledge, and I'm excited to share my projects and experiences. 
 
 **About Me** 
 
 - I hold a 1st-Class (hons) degree in Economics. 
 - Proficient in Python, SQL, and data visualization tools (Matplotlib, Seaborn). 
-- Skilled in data cleaning, exploratory data analysis (EDA), and statistical modelling. 
+- Skilled in data cleaning, exploratory data analysis (EDA), and statistical modelling.
+- Proficient in building financial models including cash flow statements, balance sheets and profit statements.
+- Skilled in financial analysis and forecasting (excel)
 
 **Projects** 
 

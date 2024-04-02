@@ -25,7 +25,7 @@ Hi there! I'm Zakaria, an aspiring data and finance analyst with a passion for u
 4. **Python - ATM Simulation using Google Colab :** Using the Google Colab platform and Python programming language to simulate a user experience on an ATM by defining functions for every user action, calling on these functions and linking them together for navigation purposes. Using a global balance to add and subtract from the balance when user withdraws and deposits (executing calculations) into the simulated account. Finally also coding for loops and using the IF, ELIF, ELSE statements to code for the outputs for each user input possibility and restricting the user input using integer ranges alongside error messages. 
 
 * 🌍  I'm based in London </br>
-* ✉️  You can contact me at [my email address](mailto:zakariaahmed2000@gmail.com) </br>
+* ✉️  You can contact me at [my email address](mailto:z_ahmed25@outlook.com) </br>
 * 🧠  I'm learning Python, SQL, Power BI, R </br>
 * 🤝  I'm open to collaborating on Finance, Banking and Data projects </br>
 
